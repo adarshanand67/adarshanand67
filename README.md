@@ -52,6 +52,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshanand67&show_icons=true&locale=en&layout=compact&theme=gotham" alt="adarshanand67" height = 140 /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshanand67&theme=gotham" alt="adarshanand67" /></p>
+
+
 <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=adarshanand67&show_icons=true&locale=en&theme=gotham" alt="adarshanand67" height = 140/></p> <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
