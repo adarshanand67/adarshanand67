@@ -37,6 +37,7 @@
 <a href="https://www.hackerrank.com/adarsh_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh_anand" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/alpha_coder_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alpha_coder_20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hoodiecoder2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hoodiecoder2020" height="30" width="40" /></a>
+<a href="https://kaggle.com/adarshanand2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshanand2002" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@adarshan20302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adarshan20302" height="30" width="40" /></a> -->
 <!-- <a href="https://auth.geeksforgeeks.org/user/adarshanand20031/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adarshanand20031/profile" height="30" width="40" /></a> -->
 </p>
@@ -49,15 +50,15 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshanand67&show_icons=true&locale=en&layout=compact&theme=gotham" alt="adarshanand67" height = 140 /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshanand67&show_icons=true&locale=en&layout=compact&theme=gotham" alt="adarshanand67" height = 140 /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshanand67&theme=gotham" alt="adarshanand67" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshanand67&theme=gotham" alt="adarshanand67" /></p>
 
 
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=adarshanand67&show_icons=true&locale=en&theme=gotham" alt="adarshanand67" height = 140/></p> <br><br>
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=adarshanand67&show_icons=true&locale=en&theme=gotham" alt="adarshanand67" height = 200/></p> <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"></a>
 
 <div align="center">
 
