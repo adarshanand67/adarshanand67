@@ -1,6 +1,6 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ - Use this to Create your own Custom Github readme -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232683AC&size=25&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Anand+;Competitive+Programmer;MERN Stack;Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232683AC&size=25&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Anand+;Competitive+Programmer;MERN+Stack+dev;Cloud+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
