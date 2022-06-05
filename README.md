@@ -1,5 +1,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ - Use this to Create your own Custom Github readme -->
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232683AC&size=25&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Anand+;Competitive+Programmer;MERN+Stack+dev;Cloud+Enthusiast)](https://git.io/typing-svg)
 
 <hr>
