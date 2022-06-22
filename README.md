@@ -14,11 +14,11 @@
 
 <img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
-- 🔭 I’m currently working on **Portfolio website**
-- 🌱 I’m currently learning **MERN Stack 👀**
+<!-- - 🔭 I’m currently working on **Portfolio website** -->
+- 🌱 I’m currently learning **ReactJS (MERN Stack 👀**
 - 👯 I’m looking to collaborate on **Web Dev Hackathons**
-- 🤝 I’m looking for help with **Web Dev Projects**
-- 🤖 I'm Current **DSC Lead @IIT Goa**
+- 🤝 I’m looking for help with **Backend Concepts 🛠**
+<!-- - 🤖 I'm Current **DSC Lead @IIT Goa** -->
 - 💬 Ask me about **DSA (C++), Linux**
 - 🥅 2022 Goals: Learn **MERN Stack** in depth
 - ⚡ Fun fact - **I 💖 Workout**
