@@ -20,7 +20,7 @@
 - 🤝 I’m looking for help with **Backend Concepts 🛠**
 <!-- - 🤖 I'm Current **DSC Lead @IIT Goa** -->
 - 💬 Ask me about **DSA (C++), Linux**
-- 🥅 2022 Goals: Learn **MERN Stack** in depth
+- 🥅 2022 Goals: Learn **MERN Stack** in depth, participate in **ICPC** Reigonals.
 - ⚡ Fun fact - **I 💖 Workout**
 <!-- - 📫 Reach me -> adarsh.anand.20031@iitgoa.ac.in, Contact - +91 6207861361 -->
 
