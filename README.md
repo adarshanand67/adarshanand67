@@ -2,7 +2,7 @@
 
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232683AC&size=25&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+Anand+;Competitive+Programmer;MERN+Stack+dev;Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Open+source+%F0%9F%92%98;Problem+solver)](https://git.io/typing-svg)
 
 <hr>
 
