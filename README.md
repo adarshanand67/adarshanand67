@@ -16,14 +16,14 @@
 
 <!-- - 🔭 I’m currently working on **Portfolio website** -->
 
-- 🌱 I’m currently learning **ReactJS (MERN Stack 👀**
+- 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 - 👯 I’m looking to collaborate on **Web Dev Hackathons**
-- 🤝 I’m looking for help with **Backend Concepts 🛠**
-- 🤖 I'm Current **DSC Lead @IIT Goa**
+- 🤝 I’m looking for help with **Backend Concepts 🛠**, Open source
+- 🤖 I'm Current **GDSC Lead @IIT Goa**
 - 💬 Ask me about **DSA (C++), Linux**
-- 🥅 2022 Goals: Learn **MERN Stack** in depth, participate in **ICPC** Reigonals.
+- 🥅 2022 Goals: Learn **MERN Stack** in depth contribute to Open Source
 - ⚡ Fun fact - **I 💖 Workout**
-<!-- - 📫 Reach me -> adarsh.anand.20031@iitgoa.ac.in, Contact - +91 6207861361 -->
+- 📫 Hit an email - [📧](mailto:adarsh.anand.20031@iitgoa.ac.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -113,7 +113,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="center"> With ❤️ from India 🇮🇳 </p>
+<p align="center"> With ❤️ from India </p>
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshanand67" alt="adarshanand67" /></a> </p> -->
 
