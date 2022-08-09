@@ -23,7 +23,7 @@
 - 💬 Ask me about **DSA (C++), Linux**
 - 🥅 2022 Goals: Learn **MERN Stack** in depth contribute to Open Source
 - ⚡ Fun fact - **I 💖 Workout**
-- 📫 Hit an email - [📧](mailto:adarsh.anand.20031@iitgoa.ac.in)
+- 📫 Hit an email - 📧 adarsh.anand.20031@iitgoa.ac.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
