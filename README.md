@@ -18,10 +18,10 @@
 
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 - 👯 I’m looking to collaborate on **Web Dev Hackathons**
-- 🤝 I’m looking for help with **Backend Concepts 🛠**, Open source
+- 🤝 I’m looking for help with **Backend Concepts 🛠**, Competitive programming
 - 🤖 I'm Current **GDSC Lead @IIT Goa**
 - 💬 Ask me about **DSA (C++), Linux**
-- 🥅 2022 Goals: Learn **MERN Stack** in depth contribute to Open Source
+- 🥅 2022 Goals: Learn **MERN Stack** in depth + Open Source
 - ⚡ Fun fact - **I 💖 Workout**
 - 📫 Hit an email - 📧 adarsh.anand.20031@iitgoa.ac.in
 
