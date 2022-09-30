@@ -22,7 +22,7 @@
 - 🤖 I'm Current **GDSC Lead @IIT Goa**
 - 💬 Ask me about **DSA (C++), Linux**
 - 🥅 2022 Goals: Learn **MERN Stack** in depth + Open Source
-- ⚡ Fun fact - **I 💖 Workout**
+- ⚡ Fun fact - **I 💖 Workout, Weightlifting, Arm wresting (anything Hypertrophy related)**
 - 📫 Hit an email - 📧 adarsh.anand.20031@iitgoa.ac.in
 
 <h3 align="left">Connect with me:</h3>
